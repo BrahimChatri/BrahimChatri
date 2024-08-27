@@ -20,9 +20,10 @@
   <a href="https://twitter.com/chatri_brahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chatri_brahim" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/brahim-chatri-23a397280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim-chatri-23a397280" height="40" width="50" /></a>
 <a href="https://instagram.com/brahim_chatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brahim_chatri" height="40" width="50" /></a>
-  <a href="mailto:brahim.chatri.dev@gmail.com" target="blank"><img align="center" src="./assets/Gmail.png" alt="Gmail" height="50" width="48" /></a>
+  <a href="mailto:brahim.chatri.dev@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="48" /></a>
 
 </div>
+
 
 <h2 align="left">Languages and Tools:</h3>
 <div align="center">
