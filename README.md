@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Brahim</h1>
-<h3 align="center">Aspiring Software Developer with a Passion for Python</h3>
+<h3 align="center">Aspiring Software Engineer with a Passion for Python</h3>
 
 - 👨‍💻 I’m currently working on **Building and Developing My Skills in Python**
 
@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **Python and Software Development**
 
-- 📫 How to reach me: [brahim.chatri.dev@gmail.com](mailto:brahim.chatri.dev@gmail.com)
+- 📚 My goal is to become a **Software Engineer**
+
+- 📫 How to reach me: **[brahim.chatri.dev@gmail.com](mailto:brahim.chatri.dev@gmail.com)**
 
 - ⚡ Fun Fact: **I'm constantly exploring new technologies and improving my coding skills!**
 
@@ -18,6 +20,7 @@
   <a href="https://twitter.com/chatri_brahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chatri_brahim" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/brahim-chatri-23a397280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brahim-chatri-23a397280" height="40" width="50" /></a>
 <a href="https://instagram.com/brahim_chatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brahim_chatri" height="40" width="50" /></a>
+  <a href="mailto:brahim.chatri.dev@gmail.com" target="blank"><img align="center" src="./assets/Gmail.png" alt="Gmail" height="50" width="48" /></a>
 
 </div>
 
