@@ -65,3 +65,5 @@
 <p align="center">
  <img width="1000" src="./assets/github-snake.svg" alt="snake"/>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=BrahimChatri&color=blue&style=flat)
