@@ -46,11 +46,11 @@
   
 <p>&nbsp;</p>
 
-<p><img align="left" src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" height="150" /></p>
+<p align= "center"><img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" height="200" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimChatri&theme=dark&hide_border=false" alt="BrahimChatri's Profile Summary" height="150" /></p>
+<p align= "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimChatri&theme=dark&hide_border=false" alt="BrahimChatri's Profile Summary" height="200" /></p>
 
-<p><img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" height="150" /></p>
+<p align= "center"><img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" height="145" /></p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brahimchatri&theme=github-dark&radius=13&order=55" height="365" alt="activity-graph graph" />
 
