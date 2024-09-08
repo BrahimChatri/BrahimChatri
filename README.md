@@ -48,7 +48,7 @@
 
 <p align= "center"><img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" height="200" /></p>
 
-<p align= "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimChatri&theme=dark&hide_border=false" alt="BrahimChatri's Profile Summary" height="200" /></p>
+<p align= "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimChatri&theme=highcontrast&hide_border=false" alt="BrahimChatri's Profile Summary" height="200" /></p>
 
 <p align= "center"><img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" height="145" /></p>
 
