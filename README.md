@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Brahim</h1>
 <h3 align="center">Aspiring Software Engineer with a Passion for Python</h3>
 
-- 👨‍💻 I’m currently working on **Building and Developing My Skills in Python**
+- 👨‍💻 I’m currently working on **Building and Developing My Skills in Python and Rust**
 
-- 🌱 I’m currently learning **OOP, Flask Framework**
+- 🌱 I’m currently learning **OOP, Flask Framework, Rust**
 
 - 💬 Ask me about **Python and Software Development**
 
@@ -36,6 +36,9 @@
 <div align="center">
   <a href="https://python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo" />
   </a>
   <img width="12" />
   <a href="https://www.git-scm.com/" target="_blank">
