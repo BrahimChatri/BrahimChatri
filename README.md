@@ -34,9 +34,11 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="center">
+  <img width="12" />
   <a href="https://python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
   </a>
+  <img width="12" />
   <a href="https://www.rust-lang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo" />
   </a>
@@ -76,7 +78,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimChatri&theme=highcontrast&hide_border=false" alt="BrahimChatri's Profile Summary" height="200" />
   </p>
   <p align="center">
-    <img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" height="190" />
+    <img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" />
   </p>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=brahimchatri&theme=github-dark&radius=13&order=55" height="365" alt="activity-graph graph" />
