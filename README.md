@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working on **Building My Skills in Python and Back-End Development**
 
-- 🌱 I’m currently learning **OOP, Django Framework, APIs, and Database Design**
+- 🌱 I’m currently learning **OOP, Flask, Django Framework, APIs, and Database Design**
 
 - 💬 Ask me about **Python automation, Django, or basic web scraping**
 
@@ -39,6 +39,10 @@
   </a>
   <img width="12" />
   <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo" />
   </a>
   <img width="12" />
@@ -53,6 +57,7 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
   </a>
+  <br/>
   <img width="12" />
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo" />
