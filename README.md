@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python automation, Django, or basic web scraping**
 
-- 📚 I'm part of the **ALX Back-End Development Program**, gaining hands-on experience in building real-world applications.
+- 📚 I'm part of the **[ALX Back-End Development Program](https://www.alxafrica.com/programme/back-end-web-development/)**, gaining hands-on experience in building real-world applications.
 
 - 🎯 My goal is to become a skilled **Back-End Developer** and grow into a **Software Engineer**.
 
