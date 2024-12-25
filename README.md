@@ -50,14 +50,18 @@
     <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
   </a>
   <img width="12" />
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+  </a>
+  <img width="12" />
   <a href="https://github.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
   </a>
+  
   <img width="12" />
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
   </a>
-  <br/>
   <img width="12" />
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo" />
