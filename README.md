@@ -50,6 +50,14 @@
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
   </a>
   <img width="12" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
+  </a>
+  <img width="12" />
+  <a href="https://microsoft.com/PowerShell" target="_blank">
+    <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo" />
+  </a>
+  <img width="12" />
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
   </a>
@@ -59,10 +67,6 @@
   </a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo" />
-  <img width="12" />
-  <a href="https://microsoft.com/PowerShell" target="_blank">
-    <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo" />
-  </a>
 </div>
 
 <p>&nbsp;</p>
