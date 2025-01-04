@@ -3,11 +3,11 @@
 
 - 👨‍💻 I’m currently working on **Building My Skills in Python and Back-End Development**
 
-- 🌱 I’m currently learning **OOP, Django Framework, APIs, and Database Design**
+- 🌱 I’m currently learning **OOP, Flask, Django Framework, APIs, and Database Design**
 
 - 💬 Ask me about **Python automation, Django, or basic web scraping**
 
-- 📚 I'm part of the **ALX Back-End Development Program**, gaining hands-on experience in building real-world applications.
+- 📚 I'm part of the **[ALX Back-End Development Program](https://www.alxafrica.com/programme/back-end-web-development/)**, gaining hands-on experience in building real-world applications.
 
 - 🎯 My goal is to become a skilled **Back-End Developer** and grow into a **Software Engineer**.
 
@@ -39,6 +39,10 @@
   </a>
   <img width="12" />
   <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo" />
   </a>
   <img width="12" />
@@ -46,9 +50,14 @@
     <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
   </a>
   <img width="12" />
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+  </a>
+  <img width="12" />
   <a href="https://github.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
   </a>
+  
   <img width="12" />
   <a>
     <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
