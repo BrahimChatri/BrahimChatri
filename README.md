@@ -95,6 +95,7 @@
       <img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" />
     </p>
   </div>
+
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/BrahimChatri/BrahimChatri/output/github-contribution-grid-snake-dark.svg)
 </details>
 <p>&nbsp;</p>
