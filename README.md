@@ -106,7 +106,7 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/BrahimChatri/BrahimChatri/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/BrahimChatri/BrahimChatri/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
 </details>
