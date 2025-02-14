@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋 I'm Brahim</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Brahim;Aspiring+Software+Engineer" alt="Typing SVG" />
+  </a>
+</h1>
+
 <h3 align="center">Back-End Developer in Training | Passionate About Python</h3>
 
 - 👨‍💻 I’m currently working on **Building My Skills in Python and Back-End Development**
@@ -59,8 +64,8 @@
   </a>
   
   <img width="12" />
-  <a>
-    <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
+  <a href="https://ubuntu.com/">
+    <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="ubuntu logo" />
   </a>
   <img width="12" />
   <a href="https://microsoft.com/PowerShell" target="_blank">
