@@ -22,7 +22,7 @@
 <h2 align="left"> Connect with Me </h2>
 
 <div align="center">
-  <a href="https://twitter.com/chatri_brahim" target="_blank">
+  <a href="https://twitter.com/dev_brahim" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="chatri_brahim" height="40" width="50" />
   </a>
   <a href="https://www.linkedin.com/in/brahim-chatri-23a397280/" target="_blank">
