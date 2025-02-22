@@ -32,55 +32,43 @@
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="brahim_chatri" height="40" width="50" />
   </a>
   <a href="mailto:brahim.chatri.dev@gmail.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="48" />
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="48" width="48" />
   </a>
 </div>
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="center">
-  <img width="12" />
   <a href="https://python.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+    <img src="https://skillicons.dev/icons?i=py" width="50" height="50" alt="python logo" />
   </a>
-  <img width="12" />
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=flask" height="50" alt="Flask logo" />
+    <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask logo" />
   </a>
-  <img width="12" />
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo" />
+    <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="django logo" />
   </a>
-  <img width="12" />
   <a href="https://www.git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="git logo" />
   </a>
-  <img width="12" />
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+    <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="docker logo" />
   </a>
-  <img width="12" />
   <a href="https://github.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="github logo" />
   </a>
-  
-  <img width="12" />
-  <a href="https://ubuntu.com/">
-    <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="ubuntu logo" />
+    <a href="https://ubuntu.com/">
+    <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" alt="ubuntu logo" />
   </a>
-  <img width="12" />
   <a href="https://microsoft.com/PowerShell" target="_blank">
-    <img src="https://skillicons.dev/icons?i=powershell" height="50" alt="powershell logo" />
+    <img src="https://skillicons.dev/icons?i=powershell"  width="50" height="50" alt="powershell logo" />
   </a>
-  <img width="12" />
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="vscode logo" />
   </a>
-  <img width="12" />
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo" />
+    <img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" alt="pycharm logo" />
   </a>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="50" alt="windows logo" />
+  <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" alt="windows logo" />
 </div>
 
 <p>&nbsp;</p>
@@ -90,15 +78,9 @@
   <summary>Click to View My GitHub Stats</summary>
   <p>&nbsp;</p>
   <div align="center">
-    <p>
       <img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" height="200" />
-    </p>
-    <p align="center">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimChatri&theme=highcontrast&hide_border=false" alt="BrahimChatri's Profile Summary" height="200" />
-    </p>
-    <p align="center">
-      <img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" />
-    </p>
+      <img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark&layout=compact" alt="BrahimChatri" height= "180"/>
   </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrahimChatri/BrahimChatri/output/github-contribution-grid-snake-dark.svg" />
