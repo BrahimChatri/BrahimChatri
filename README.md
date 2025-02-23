@@ -80,8 +80,10 @@
   <div align="center">
       <img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" height="200" />
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimChatri&theme=highcontrast&hide_border=false" alt="BrahimChatri's Profile Summary" height="200" />
-      <img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark&layout=compact" alt="BrahimChatri" height= "180"/>
+      <img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark&layout=compact" alt="BrahimChatri" height= "200"/>
+      <a href="https://roadmap.sh/u/brahimch"><img src="https://roadmap.sh/card/wide/646452f1410780a6d9b6868b?variant=dark&roadmaps=python%2Cgit-github%2Cdatastructures-and-algorithms%2Cbackend" alt="roadmap.sh"/></a>
   </div>
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrahimChatri/BrahimChatri/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrahimChatri/BrahimChatri/output/github-contribution-grid-snake.svg" />
