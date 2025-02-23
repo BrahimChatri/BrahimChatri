@@ -70,30 +70,34 @@
   </a>
   <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" alt="windows logo" />
 </div>
-
 <p>&nbsp;</p>
-<h2>Github Stats 📊</h2>
+<h2>📊 GitHub Stats</h2>
 
 <table align="center">
   <tr>
     <td align="center">
+      <strong>GitHub Stats</strong>
       <img src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=BrahimChatri&show_icons=true&theme=dark" alt="GitHub Stats" height="200"/>
     </td>
     <td align="center">
+      <strong>GitHub Streak</strong>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimChatri&theme=highcontrast&hide_border=false" alt="GitHub Streak" height="200"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark&layout=compact" alt="Top Languages" height="200"/>
+      <strong>Top Languages</strong>
+      <img src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark&layout=compact" alt="Top Languages" height="190"/>
     </td>
     <td align="center">
+      <strong>Roadmap Progress</strong>
       <a href="https://roadmap.sh/u/brahimch">
-        <img src="https://roadmap.sh/card/wide/646452f1410780a6d9b6868b?variant=dark&roadmaps=python%2Cgit-github%2Cdatastructures-and-algorithms%2Cbackend" alt="roadmap.sh"/>
+        <img src="https://roadmap.sh/card/wide/646452f1410780a6d9b6868b?variant=dark&roadmaps=python%2Cgit-github%2Cdatastructures-and-algorithms%2Cbackend" alt="roadmap.sh" height="230"/>
       </a>
     </td>
   </tr>
 </table>
+
 
   
 <picture>
