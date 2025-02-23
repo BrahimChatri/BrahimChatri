@@ -74,24 +74,33 @@
 <p>&nbsp;</p>
 <h2>Github Stats 📊</h2>
 
-<details>
-  <summary>Click to View My GitHub Stats</summary>
-  <p>&nbsp;</p>
-  <div align="center">
-      <img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=BrahimChatri&show_icons=true&theme=dark" alt="BrahimChatri" height="200" />
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimChatri&theme=highcontrast&hide_border=false" alt="BrahimChatri's Profile Summary" height="200" />
-      <img align="center" src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark&layout=compact" alt="BrahimChatri" height= "200"/>
-      <a href="https://roadmap.sh/u/brahimch"><img src="https://roadmap.sh/card/wide/646452f1410780a6d9b6868b?variant=dark&roadmaps=python%2Cgit-github%2Cdatastructures-and-algorithms%2Cbackend" alt="roadmap.sh"/></a>
-  </div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=BrahimChatri&show_icons=true&theme=dark" alt="GitHub Stats" height="200"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimChatri&theme=highcontrast&hide_border=false" alt="GitHub Streak" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark&layout=compact" alt="Top Languages" height="200"/>
+    </td>
+    <td align="center">
+      <a href="https://roadmap.sh/u/brahimch">
+        <img src="https://roadmap.sh/card/wide/646452f1410780a6d9b6868b?variant=dark&roadmaps=python%2Cgit-github%2Cdatastructures-and-algorithms%2Cbackend" alt="roadmap.sh"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrahimChatri/BrahimChatri/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrahimChatri/BrahimChatri/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/BrahimChatri/BrahimChatri/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</details>
-<p>&nbsp;</p>
 
 
 
