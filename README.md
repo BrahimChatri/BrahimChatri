@@ -77,17 +77,17 @@
   <tr>
     <td align="center">
       <strong>GitHub Stats</strong>
-      <img src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=BrahimChatri&show_icons=true&theme=dark" alt="GitHub Stats" height="200"/>
+      <img src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=BrahimChatri&show_icons=true&theme=dark" alt="GitHub Stats" height="220"/>
     </td>
     <td align="center">
       <strong>GitHub Streak</strong>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrahimChatri&theme=highcontrast&hide_border=false" alt="GitHub Streak" height="200"/>
+      <img src="https://github-readme-streak-stats-flame-ten.vercel.app/?user=BrahimChatri&theme=highcontrast&hide_border=false" alt="GitHub Streak" height="180"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <strong>Top Languages</strong>
-      <img src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark&layout=compact" alt="Top Languages" height="190"/>
+      <img src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark&layout=compact" alt="Top Languages" height="180"/>
     </td>
     <td align="center">
       <strong>Roadmap Progress</strong>
