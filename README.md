@@ -41,6 +41,9 @@
   <a href="https://python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" width="50" height="50" alt="python logo" />
   </a>
+  <a href="https://www.rust-lang.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=rust" width="50" height="50" alt="rust logo" />
+  </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask logo" />
   </a>
@@ -52,6 +55,9 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="docker logo" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB logo" />
   </a>
   <a href="https://github.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="github logo" />
