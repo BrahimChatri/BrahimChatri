@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Brahim;Aspiring+Software+Engineer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Brahim;Aspiring+Software+Engineer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Back-End Developer in Training | Passionate About Python</h3>
@@ -14,7 +12,7 @@
 
 - 📚 I'm part of the **[ALX Back-End Development Program](https://www.alxafrica.com/programme/back-end-web-development/)**, gaining hands-on experience in building real-world applications.
 
-- 🎯 My goal is to become a skilled **Back-End Developer** and grow into a **Software Engineer**.
+- 🎯 **My goal** is to become a skilled **Back-End Developer** and grow into a versatile **Software Engineer** with a focus on back-end technologies.
 
 - 📫 How to reach me: **[brahim.chatri.dev@gmail.com](mailto:brahim.chatri.dev@gmail.com)**
 
@@ -25,7 +23,7 @@
   <a href="https://twitter.com/dev_brahim" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="chatri_brahim" height="40" width="50" />
   </a>
-  <a href="https://www.linkedin.com/in/brahim-chatri-23a397280/" target="_blank">
+  <a href="www.linkedin.com/in/brahim-chatri" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="brahim-chatri-23a397280" height="40" width="50" />
   </a>
   <a href="https://instagram.com/brahim_chatri" target="_blank">
@@ -43,6 +41,9 @@
   </a>
   <a href="https://www.rust-lang.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=rust" width="50" height="50" alt="rust logo" />
+  </a>
+  <a href="https://skillicons.dev/icons?i=bash" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" alt="bash logo" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask logo" />
@@ -70,9 +71,6 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="vscode logo" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" alt="pycharm logo" />
   </a>
   <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" alt="windows logo" />
 </div>
