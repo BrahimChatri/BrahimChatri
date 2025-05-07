@@ -6,24 +6,24 @@
 
 - 👨‍💻 I’m currently working on **Building My Skills in Python and Back-End Development**
 
-- 🌱 I’m currently learning **OOP, Flask, Django Framework, APIs, and Database Design**
+- 🌱 I’m currently learning **Rust, Flask, FastAPI, Django Framework, APIs Integration, and Database Design**
 
 - 💬 Ask me about **Python automation, Django, or basic web scraping**
 
 - 📚 I'm part of the **[ALX Back-End Development Program](https://www.alxafrica.com/programme/back-end-web-development/)**, gaining hands-on experience in building real-world applications.
 
-- 🎯 **My goal** is to become a skilled **Back-End Developer** and grow into a versatile **Software Engineer** with a focus on back-end technologies.
+- 🎯 **My goal** is to become a proficient **Back-End Developer** and evolve into a versatile **Software Engineer**.
 
 - 📫 How to reach me: **[brahim.chatri.dev@gmail.com](mailto:brahim.chatri.dev@gmail.com)**
 
-<p> &nbsp;</p>
+<br/>
 <h2 align="left"> Connect with Me </h2>
 
 <div align="center">
   <a href="https://twitter.com/dev_brahim" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="chatri_brahim" height="40" width="50" />
   </a>
-  <a href="www.linkedin.com/in/brahim-chatri" target="_blank">
+  <a href="https://www.linkedin.com/in/brahim-chatri" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="brahim-chatri-23a397280" height="40" width="50" />
   </a>
   <a href="https://instagram.com/brahim_chatri" target="_blank">
@@ -74,7 +74,7 @@
   </a>
   <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" alt="windows logo" />
 </div>
-<p>&nbsp;</p>
+<br/>
 <h2>📊 GitHub Stats</h2>
 
 <table align="center">
