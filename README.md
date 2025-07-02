@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Rust, Flask, FastAPI, Django Framework, APIs Integration, and Database Design**
 
-- 💬 Ask me about **Python automation, Django, or basic web scraping**
+- 💬 Ask me about **Python automation, Flask, or web scraping**
 
 - 📚 I'm part of the **[ALX Back-End Development Program](https://www.alxafrica.com/programme/back-end-web-development/)**, gaining hands-on experience in building real-world applications.
 
