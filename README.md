@@ -1,23 +1,24 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Brahim;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4100&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Brahim;Self-taught+Software+Engineer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Back-End Developer in Training | Passionate About Python</h3>
+<h3 align="center">Self-taught Software Engineer | Back-End Development Specialist | Python Enthusiast</h3>
 
-- 👨‍💻 I’m currently working on **Building My Skills in Python and Back-End Development**
+- 👨‍💻 I'm currently working on **Expanding My Software Engineering Skills and Building Scalable Back-End Solutions**
 
-- 🌱 I’m currently learning **Rust, Flask, FastAPI, Django Framework, APIs Integration, and Database Design**
+- 🚀 I'm currently mastering **Rust, Flask, FastAPI, Django Framework, APIs Integration, and Database Architecture**
 
-- 💬 Ask me about **Python automation, Flask, or web scraping**
+- 💬 Ask me about **Python automation, Flask, Django, Back-end architecture, or web scraping**
 
-- 📚 I'm part of the **[ALX Back-End Development Program](https://www.alxafrica.com/programme/back-end-web-development/)**, gaining hands-on experience in building real-world applications.
+- 🎯 **My mission** is to evolve into a **Senior Software Engineer** while specializing in robust back-end systems and scalable applications.
 
-- 🎯 **My goal** is to become a proficient **Back-End Developer** and evolve into a versatile **Software Engineer**.
+- 🔧 **Self-taught journey** focused on practical problem-solving, continuous learning, and building real-world solutions.
 
 - 📫 How to reach me: **[brahim.chatri.dev@gmail.com](mailto:brahim.chatri.dev@gmail.com)**
 
 <br/>
-<h2 align="left"> Connect with Me </h2>
+
+## 🤝 Connect with Me
 
 <div align="center">
   <a href="https://twitter.com/dev_brahim" target="_blank">
@@ -34,7 +35,10 @@
   </a>
 </div>
 
-<h2 align="left">Languages and Tools:</h2>
+<br/>
+
+## 🛠️ Tech Stack & Tools
+
 <div align="center">
   <a href="https://python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=py" width="50" height="50" alt="python logo" />
@@ -60,10 +64,13 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB logo" />
   </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="Postgresql logo" />
+  </a>
   <a href="https://github.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="github logo" />
   </a>
-    <a href="https://ubuntu.com/">
+  <a href="https://ubuntu.com/">
     <img src="https://skillicons.dev/icons?i=ubuntu" width="50" height="50" alt="ubuntu logo" />
   </a>
   <a href="https://microsoft.com/PowerShell" target="_blank">
@@ -74,27 +81,29 @@
   </a>
   <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" alt="windows logo" />
 </div>
+
 <br/>
-<h2>📊 GitHub Stats</h2>
+
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
     <td align="center">
-      <strong>GitHub Stats</strong>
+      <strong>GitHub Stats</strong><br/>
       <img src="https://github-readme-stats-beige-theta-61.vercel.app/api?username=BrahimChatri&show_icons=true&theme=dark" alt="GitHub Stats" height="220"/>
     </td>
     <td align="center">
-      <strong>GitHub Streak</strong>
+      <strong>GitHub Streak</strong><br/>
       <img src="https://github-readme-streak-stats-flame-ten.vercel.app/?user=BrahimChatri&theme=highcontrast&hide_border=false" alt="GitHub Streak" height="180"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>Top Languages</strong>
+      <strong>Top Languages</strong><br/>
       <img src="https://github-readme-stats-beige-theta-61.vercel.app/api/top-langs?username=BrahimChatri&show_icons=true&theme=dark&layout=compact" alt="Top Languages" height="180"/>
     </td>
     <td align="center">
-      <strong>Roadmap Progress</strong>
+      <strong>Learning Progress</strong><br/>
       <a href="https://roadmap.sh/u/brahimch">
         <img src="https://roadmap.sh/card/wide/646452f1410780a6d9b6868b?variant=dark&roadmaps=python%2Cgit-github%2Cdatastructures-and-algorithms%2Cbackend" alt="roadmap.sh" height="230"/>
       </a>
@@ -102,8 +111,10 @@
   </tr>
 </table>
 
+<br/>
 
-  
+## 🐍 Contribution Activity
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrahimChatri/BrahimChatri/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrahimChatri/BrahimChatri/output/github-contribution-grid-snake.svg" />
@@ -111,5 +122,8 @@
 </picture>
 
 
-
+<div align="center">
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=BrahimChatri&color=blue&style=flat)
+
+</div>
